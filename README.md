@@ -22,7 +22,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 
 📫 How to reach me *vs960155@gmail.com**
 
-⚡ Fun fact **I am supportive and creative**
+⚡ Fun fact ****
 <!--  EXCITED CHARACTERS  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 <!--  DIVIDER  -->
