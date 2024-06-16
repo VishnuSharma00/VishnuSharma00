@@ -39,7 +39,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 </br>
 <!--readme-streak-stats-->
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuSharma00&theme=dark" alt="Prabhakar1437"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuSharma00&theme=dark" alt="VishnuSharma00"/>
 </div>
 
  <!--  DIVIDER  -->
@@ -49,7 +49,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 <!--  MY GITHUB STAT  -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Prabhakar1437" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=VishnuSharma00" height="150" alt="stats graph"/>
  
 </div>
  <!--  DIVIDER  -->
@@ -59,7 +59,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 <img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
 <!--LANGUAGES USED -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=Prabhakar1437" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=VishnuSharma00" height="150" alt="languages graph"/>
 </div>
 
  <!--  DIVIDER  -->
@@ -89,14 +89,14 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 
 <div align="center">
   <a href="#">
-      <img src="https://komarev.com/ghpvc/?username=Prabhakar1437a&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhakar1437" align="center" /> 
+      <img src="https://komarev.com/ghpvc/?username=VishnuSharma00a&label=Profile%20views&color=0e75b6&style=flat" alt="VishnuSharma00" align="center" /> 
   <a/>
 
-  <a href="https://github.com/Prabhakar1437?tab=followers">
-    <img src="https://img.shields.io/github/followers/Prabhakar1437?label=Followers&style=social" alt="GitHub Badge" align="center">
+  <a href="https://github.com/VishnuSharma00?tab=followers">
+    <img src="https://img.shields.io/github/followers/VishnuSharma00?label=Followers&style=social" alt="GitHub Badge" align="center">
   <a/>
 </div>
 <br>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/rmznctnky"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Prabhakar1437" /></a>
+  <a href="https://www.buymeacoffee.com/rmznctnky"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="VishnuSharma00" /></a>
 </div>
